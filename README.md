@@ -58,3 +58,4 @@ From inside the [client](./client/) directory:
 
 - If you encounter an error related to `secretOrPrivateKey` when attempting to make a request, please ensure you have created a .env file in the root directory as per the _Getting Started_ instructions.
 - You might encounter `ERR_DLOPEN_FAILED` when you try to install dependencies locally then run the server in docker (or vice versa). In case of error, try removing the `node_modules` directory and restart `docker-compose up`.
+# Update: added by dev branch
