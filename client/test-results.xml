@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="9.429" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-10-23T01:39:57" tests="0" file="cypress\e2e\onboarding.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Onboarding" timestamp="2025-10-23T01:39:57" tests="3" time="9.424" failures="0">
+    <testcase name="Onboarding Display onboarding after registration" time="4.568" classname="Display onboarding after registration">
+    </testcase>
+    <testcase name="Onboarding Display onboarding after registration from /register" time="1.302" classname="Display onboarding after registration from /register">
+    </testcase>
+    <testcase name="Onboarding Elements are named" time="1.948" classname="Elements are named">
+    </testcase>
+  </testsuite>
+</testsuites>
